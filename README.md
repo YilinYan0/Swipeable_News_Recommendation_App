@@ -1,13 +1,11 @@
-# An-Android-Based-Tinder-like-News-App
+# Swipeable News Recommendation Application for Android
 
-•	Designed the Instagram Flavor News app based on Google Component Architectural MVVM Pattern
+•	Designed a swipeable news application based on Google Component Architectural MVVM Pattern
 
-•	Implemented the bottom bar & page navigation using JetPack navigation component 
+•	Utilized JetPack navigation component to develop the bottom bar & page navigation
 
-•	Utilized 3rd party CardStackView(RecyclerView) to support swipe gestures for liking/disliking the news
+•	Supported swipe gestures for liking/disliking the news with 3rd party CardStackView (RecyclerView)
 
-•	Built the Room Database with LiveData & ViewModel to support local cache and offline model
+•	Supported local cache and offline model by building the Room Database with LiveData & ViewModel
 
-•	Integrated Retrofit and LiveData to pull the latest news data from a RESTFUL endpoint  (newsapi.org)  
-
-
+•	Pulled the latest news data from a RESTFUL endpoint (newsapi.org) by integrating Retrofit and LiveData
